@@ -1,4 +1,38 @@
+* {
+    box-sizing: inherit;
+}
+
 body, html {
     font-family: "Amatic SC", sans-serif;
     height: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+lg-top {
+    top: 0;
+}
+
+.lg-top, .lg-bottom {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.lg-black, .lg-hover-black:hover {
+    color: #fff!important;
+    background-color: #000!important;
+}
+
+.lg-xlarge {
+    font-size: 24px!important;
+}
+
+.lg-opacity, .lg-hover-opacity:hover {
+    opacity: 0.60;
+}
+
+.lg-bar {
+    width: 100%;
+    overflow: hidden;
 }
