@@ -1,15 +1,16 @@
 * {
     box-sizing: inherit;
-}
+} 
 
 body, html {
     font-family: "Amatic SC", sans-serif;
     height: 100%;
     font-size: 15px;
     line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
 }
 
-lg-top {
+.lg-top {
     top: 0;
 }
 
@@ -36,3 +37,39 @@ lg-top {
     width: 100%;
     overflow: hidden;
 }
+
+div {
+    display: block;
+}
+
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./imagens/feijoada.jpg);
+    min-height: 90%;
+}
+
+.lg-greyscale-min, .lg-grayscale-min {
+    filter: grayscale(50%);
+}
+
+.lg-tooltip, .lg-display-container {
+    position: relative;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section {
+    display: block;
+}
+
+/* element.style {
+    font-size: 100px
+} */
+
+.lg-center {
+    text-align: center!important;
+}
+
+.lg-text-white, .lg-hover-text-white:hover {
+    color: #fff!important;
+}
+
