@@ -29,6 +29,7 @@ header {
 .nav-lista {
     color: #EB130C;
     display: flex;
+    text-decoration: none;
 }
 
 li a {
@@ -55,3 +56,5 @@ a:hover {
 .nav-lista {
         margin-top: 10px;
     }
+
+}    
