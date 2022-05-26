@@ -1,0 +1,16 @@
+* {
+
+}
+
+.rodape{
+    background: black;
+}
+
+.rodape-texto{
+    color: #EB130C;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto slab';
+    font-size: 14px;
+}
