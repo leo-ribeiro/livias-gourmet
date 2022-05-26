@@ -50,7 +50,7 @@ div {
 }
 
 .lg-greyscale-min, .lg-grayscale-min {
-    filter: grayscale(50%);
+    filter: grayscale(30%);
 }
 
 .lg-tooltip, .lg-display-container {
