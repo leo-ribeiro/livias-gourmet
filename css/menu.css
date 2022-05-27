@@ -25,7 +25,7 @@ header {
 }
 
 .logo-titulo {
-    color: #FFB028;
+    color: #FFD700;
     font-family: 'Merriweather', serif;
     font-size: 50px;
     padding: 0;
@@ -38,7 +38,7 @@ header {
 }
 
 li a {
-    color: #FFB028;
+    color: #FFD700;
     padding: 10px;
     font-size: 1.2rem;
     font-family: 'Merriweather', serif;
