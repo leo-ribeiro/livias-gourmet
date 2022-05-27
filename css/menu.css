@@ -1,7 +1,10 @@
 header {
     background: #0D0D0D;
-    height: 80px;
+    height: 200px;
     align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 30px;
 }
 
 .menu {
@@ -22,21 +25,20 @@ header {
 }
 
 .logo-titulo {
-    color: #EB130C;
+    color: #FFB028;
     font-family: 'Merriweather', serif;
-    font-size: 2rem;
+    font-size: 50px;
     padding: 0;
 }
 
 .nav-lista {
-    color: #EB130C;
     display: flex;
     text-decoration: none;
     list-style-type: none;
 }
 
 li a {
-    color: #EB130C;
+    color: #FFB028;
     padding: 10px;
     font-size: 1.2rem;
     font-family: 'Merriweather', serif;

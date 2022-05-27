@@ -1,11 +1,15 @@
-.titulo-produto{
+.div-container{
+    background: #0D0D0D;
     display: flex;
+    flex-direction: column;
+}
+
+.titulo-produto{
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 2.5rem;
-    padding-top: 30px;
-    padding-bottom: 10px;
-    color: #EB130C;
+    font-size: 4rem;
+    padding: 100px;
+    color: #FFB028;
 }
 
 .nome-produto{
@@ -14,57 +18,45 @@
     font-size: 1.5rem;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: #EB130C;
-    border-left: #F28507 solid 3px;
+    color: #FFB028;
+
 }
 
 .descricao{
     font-family: 'Merriweather', serif;
-    font-weight: 300;
     font-size: 1rem;
     padding-bottom: 20px;
-    color: #EB130C;
+    color: #FFB028;
 }
 
 .img-produto{
-    width: 160px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     box-shadow: 5px 5px 4px #241615;
     border-radius: 5px;
 }
 
-.div-container{
-    background: #0D0D0D;
-    display: inline;
-    justify-items: center;
-    align-items: center;
-    width: 100vw;
-    height: 100vh;
-}
 
 .container-produto{
-    display: flex;
+    /* display: flex; */
     justify-content: space-between;
     margin-top: 20px;
     padding-bottom: 20px;
 }
 
 .container-1{
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
     margin-left: 150px;
     margin-right: 50px;    
 }
 
 .container-2{
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
     margin-right: 120px;
 }
 
-div #refeicoes .div-container {
-    display: flex;
-}
 
 /* #refeicoes {
     display: flex;
