@@ -42,7 +42,7 @@
     flex-direction: row;
     justify-content: space-around;
     justify-items: center;
-    align-items: center;
+    align-items: stretch;
     text-align: center;
     margin-top: 100px;
     padding-bottom: 20px;
