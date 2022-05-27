@@ -39,7 +39,7 @@
 .container-produto{
     display: flex; 
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     justify-items: center;
     align-items: center;
     text-align: center;
@@ -48,7 +48,7 @@
 }
 
 .container-1{
-   flex-direction: column;
+   /* flex-direction: column; */
 }
 
 .container-2{
