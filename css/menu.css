@@ -25,10 +25,14 @@ header {
 }
 
 .logo-titulo {
-    color: #FFD700;
+    color: #FF1929;
     font-family: 'Merriweather', serif;
     font-size: 50px;
     padding: 0;
+}
+
+.logo-titulo:hover {
+    color: white;
 }
 
 .nav-lista {
@@ -38,7 +42,7 @@ header {
 }
 
 li a {
-    color: #FFD700;
+    color: #FF1929;
     padding: 10px;
     font-size: 1.2rem;
     font-family: 'Merriweather', serif;

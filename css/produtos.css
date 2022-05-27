@@ -9,7 +9,7 @@
     font-family: 'Merriweather', serif;
     font-size: 4rem;
     padding-bottom: 70px;
-    color: #FFD700;
+    color: #FF1929;
     margin-top: 200px;
 }
 
@@ -18,7 +18,7 @@
     font-size: 40px;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: #FFD700;
+    color: #FF1929;
     margin: 50px;
 }
 
@@ -26,7 +26,7 @@
     font-family: 'Merriweather', serif;
     font-size: 20px;
     padding-bottom: 20px;
-    color: #FFD700;
+    color: #FF1929;
     margin-bottom: 50px;
 }
 
@@ -48,37 +48,5 @@
     padding-bottom: 20px;
 }
 
-.container-1{
-    
-}
-
-.container-2{
-    /* align-items: flex-end; */
-}
 
 
-/* #refeicoes {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-} */
-
-/* @media screen and (max-width:600px) {
-   .img-produto{
-       width: 100px;
-       height: 100px;
-   }
-   
-   .container-produto{
-       display: flex;
-       align-items: center;
-   }
-
-   .container-1{
-       margin-left: 70px;
-       margin-right: 10px;
-   }
-    
-    
-} */
