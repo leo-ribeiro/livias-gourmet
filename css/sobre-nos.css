@@ -1,0 +1,25 @@
+.container-sobre {
+    display: flex;
+    background-color: #0D0D0D;  
+    color: white;  
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.titulo-sobre {
+    justify-items: center;
+    font-size: 80px;
+    margin: 50px;
+}
+
+.conteudo-sobre {
+    font-size: 30px;
+    margin: 0;
+}
