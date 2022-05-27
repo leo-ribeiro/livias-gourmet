@@ -15,19 +15,19 @@
 
 .nome-produto{
     font-family: 'Merriweather', serif;
-    font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 40px;
     margin-top: 20px;
     margin-bottom: 5px;
     color: #FFD700;
-
+    margin: 50px;
 }
 
 .descricao{
     font-family: 'Merriweather', serif;
-    font-size: 1rem;
+    font-size: 20px;
     padding-bottom: 20px;
     color: #FFD700;
+    margin-bottom: 50px;
 }
 
 .img-produto{
@@ -49,7 +49,7 @@
 }
 
 .container-1{
-   /* flex-direction: column; */
+    
 }
 
 .container-2{
