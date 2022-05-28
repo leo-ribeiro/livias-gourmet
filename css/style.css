@@ -1,3 +1,81 @@
+#subir{
+	position:fixed;
+    border-top: 1px solid #fc5353;
+    background: #ff0512;
+    background: -webkit-gradient(linear, left top, left bottom, from(#e9eef2), to(#ff0512));
+    background: -webkit-linear-gradient(top, #e9eef2, #ff0512);
+    background: -moz-linear-gradient(top, #e9eef2, #ff0512);
+    background: -ms-linear-gradient(top, #e9eef2, #ff0512);
+    background: -o-linear-gradient(top, #e9eef2, #ff0512);
+    padding: 7px 14px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #000000;
+    font-size: 15px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+ #subir:hover {
+    border-top-color: #963636;
+    background: #963636;
+    color: #ccc;
+    }
+ #subir:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    
+	/* bottom:0px;
+	right:0px;
+    background-color: bisque;
+    border-radius: 20%;
+    font-size: 1.5rem;
+    color: #730C02; */
+}
+
+.button {
+    border-top: 1px solid #fc5353;
+    background: #ff0512;
+    background: -webkit-gradient(linear, left top, left bottom, from(#e9eef2), to(#ff0512));
+    background: -webkit-linear-gradient(top, #e9eef2, #ff0512);
+    background: -moz-linear-gradient(top, #e9eef2, #ff0512);
+    background: -ms-linear-gradient(top, #e9eef2, #ff0512);
+    background: -o-linear-gradient(top, #e9eef2, #ff0512);
+    padding: 7px 14px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #000000;
+    font-size: 15px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+ .button:hover {
+    border-top-color: #963636;
+    background: #963636;
+    color: #ccc;
+    }
+ .button:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    }
+
+/* #back-to-top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+  }
+ */
 /* html {
     margin: 0;
     padding: 0;

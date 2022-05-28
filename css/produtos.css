@@ -17,9 +17,9 @@
     font-family: 'Merriweather', serif;
     font-size: 30px;
     margin-top: 20px;
-    margin-bottom: 5px;
+    margin-bottom: 30px;
     color: #FFFFFF;
-    margin: 30px;
+    
 }
 
 .descricao{
@@ -31,8 +31,8 @@
 }
 
 .img-produto{
-    width: 450px;
-    height: 450px;
+    width: 350px;
+    height: 350px;
     border-radius: 50%;
 }
 
