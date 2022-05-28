@@ -1,6 +1,6 @@
 header {
     background: #0D0D0D;
-    height: 200px;
+    height: 100px;
     align-items: center;
     justify-content: center;
     justify-items: center;
@@ -20,14 +20,14 @@ header {
 }
 
 .logo-img {
-    width: 50px;
+    width: 80px;
     padding-right: 30px;
 }
 
 .logo-titulo {
-    color: #FF1929;
+    color: #D91604;
     font-family: 'Merriweather', serif;
-    font-size: 50px;
+    font-size: 3rem;
     padding: 0;
 }
 
@@ -42,9 +42,9 @@ header {
 }
 
 li a {
-    color: #FF1929;
+    color: #D91604;
     padding: 10px;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-family: 'Merriweather', serif;
     text-decoration: none;
     list-style-type: none;
