@@ -55,15 +55,3 @@ a:hover {
     text-decoration: none;
 }
 
-@media screen and (max-width:600px){
-    .menu{
-        display: flex;
-        flex-direction: column;
-        height: 130px;
-    }
-
-.nav-lista {
-        margin-top: 10px;
-    }
-
-}    
