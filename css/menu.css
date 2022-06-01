@@ -5,6 +5,7 @@ header {
     justify-content: center;
     justify-items: center;
     padding-top: 30px;
+    background-image: url('../imagens/rest-background.jpg');
 }
 
 .menu {
@@ -44,7 +45,7 @@ header {
 li a {
     color: #D91604;
     padding: 10px;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-family: 'Merriweather', serif;
     text-decoration: none;
     list-style-type: none;
