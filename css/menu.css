@@ -8,6 +8,8 @@ header {
     background-image: url('../imagens/rest-background.jpg');
     position: fixed;
     opacity: 0.5;
+    flex-wrap: nowrap;
+    flex-direction: column;
 }
 
 .menu {
