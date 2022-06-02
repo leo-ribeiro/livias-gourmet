@@ -6,8 +6,8 @@ header {
     justify-content: center;
     justify-items: center;
     background-image: url('../imagens/rest-background.jpg');
-    position: fixed;
-    opacity: 0.5;
+    /* position: fixed; */
+    /* opacity: 0.7; */
     flex-wrap: nowrap;
     flex-direction: column;
 }
