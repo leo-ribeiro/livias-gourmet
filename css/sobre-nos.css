@@ -11,6 +11,7 @@
     justify-items: center;
     flex-wrap: wrap;
     flex-direction: column;
+    padding-top: 100px;
 }
 
 .titulo-sobre {
