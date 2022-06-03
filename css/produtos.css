@@ -63,16 +63,12 @@
 }
 
 .container-1 {
-    justify-content: space-around;
-    /* width: 65%; */
-    
+    justify-content: space-around;   
 }
 
 .container-2 {
     margin-top: 10px;
-    justify-content: space-around;
-    /* justify-items: ; */
-    
+    justify-content: space-around;    
 }
 
 .container-3 {
@@ -82,9 +78,7 @@
 
 .container-4 {
     margin-top: 10px;
-    justify-content: space-around;
-    justify-items: ;
-    
+    justify-content: space-around;    
 }
 
 
