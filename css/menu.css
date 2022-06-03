@@ -1,11 +1,11 @@
 header {
-    background: #0D0D0D;
+    display: flex;
+    background: #280f0f;
     width: 100%;
-    height: 100px;
-    align-items: center;
+    height: 130px;
+    align-items: stretch;
     justify-content: center;
     justify-items: center;
-    background-image: url('../imagens/rest-background.jpg');
     flex-wrap: nowrap;
     flex-direction: column;
 }
@@ -30,7 +30,7 @@ header {
 .logo-titulo {
     color: #D91604;
     font-family: 'Merriweather', serif;
-    font-size: 3rem;
+    font-size: 3.3rem;
     padding: 0;
 }
 
@@ -47,7 +47,7 @@ header {
 li a {
     color: #D91604;
     padding: 10px;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-family: 'Merriweather', serif;
     text-decoration: none;
     list-style-type: none;
