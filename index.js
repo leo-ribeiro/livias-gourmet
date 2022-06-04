@@ -1,13 +1,19 @@
-$(document).ready(function () {
-    $(".back-to-top").css("display", "none");
-  $("body").scroll(function() {
-      if($(this).scrollTop() == 0){
-        $(".back-to-top").css("display", "none");
-      } else {
-        $(".back-to-top").css("display", "block");
-      }
-    });
-  $(".back-to-top").click(function() {
-      $("html, body").animate({scrollTop: 0}, 800);
-     });
-  });
+// pegar botão
+var mybutton = document.getElementById("myBtn");
+
+// quando rolar a página 20px do topo para baixo, o botão será exibido
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// // quando clicar no botão, a página rola para o topo do documento
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
