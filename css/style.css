@@ -4,8 +4,13 @@ html {
 }
   
 #topo {
-    display: flex;
-    bottom: 50px;
-    border: 10px;
-    color: red;
+    
+}
+
+.rodape {
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    border: 5px solid white;
 }
