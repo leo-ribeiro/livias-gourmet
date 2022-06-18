@@ -21,16 +21,18 @@ html {
 }
 
 .btn-footer {
-    background-color: #008CBA; 
+    background-color: #000000; 
     border: none;
     color: white;
     padding: 15px 32px;
+    justify-content: center;
     text-align: center;
-    text-decoration: none;
+    text-decoration-line: none;
     display: inline-block;
     font-size: 16px;
   }
 
-  footer{
-    
-  }
+/*  .subir a{
+    flex-direction: row;
+    text-decoration: none;
+  } */
