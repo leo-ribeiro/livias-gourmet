@@ -16,6 +16,7 @@ time, mark, audio, video {
     padding: 0;
     border: 0;
     font-family: 'Merriweather', serif;
+    text-decoration: none;
 }
 
 body {
