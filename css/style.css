@@ -16,12 +16,12 @@ html {
     width: 100%;
     height: 40px;
     border: 3px solid white;
-    justify-content: space-around;
+    justify-content: space-between;
     padding-top: 30px;
 }
 
 .btn-footer {
-    background-color: #000000; 
+    background-color: #e7e7e7; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -36,3 +36,7 @@ html {
     flex-direction: row;
     text-decoration: none;
   } */
+
+  footer{
+    justify-content: center;
+  }
