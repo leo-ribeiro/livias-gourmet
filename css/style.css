@@ -31,7 +31,10 @@ html {
     display: inline-block;
     font-size: 16px;
     border-radius: 12px;
-    transition-duration: 0.4s
+    transition-duration: 0.4s;
+    position: fixed;
+    bottom: 10px;
+    right: 0;
   }
   
   .btn-footer a:hover {
