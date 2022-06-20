@@ -35,7 +35,7 @@ header {
 }
 
 .logo-titulo:hover {
-    color: white;
+    color: #66FFFF;
 }
 
 .nav-lista {
@@ -54,7 +54,7 @@ li a {
 }
 
 a:hover {
-    color: aliceblue;
+    color: #66FFFF;
     text-decoration: none;
 }
 
